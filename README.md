@@ -1,2 +1,7 @@
-# Portfolio-Website
-The Portfolio Website project – a customizable and professional platform to showcase your skills, projects, and achievements in a visually appealing manner.
+# My_Portfolio
+My Personal Portfolio. It is Responsive.
+
+# About
+- This is my personal single page portfolio.
+- Made with HTML, CSS
+
